@@ -20,7 +20,7 @@
 ## 📫 Контакты
 
 - **Telegram:** [@aII_support](https://t.me/aII_support)
-- **GitHub:** [Мой профиль на GitHub](https://github.com/divoks)]
+- **GitHub:** [Мой профиль на GitHub](https://github.com/divoks)
 
 ---
 
